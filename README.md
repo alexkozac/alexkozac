@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://gifdb.com/images/high/studio-ghibli-the-wind-rises-9et0noh9x3a3q1qf.webp"  />
+  <img height="200" src="https://gifdb.com/images/high/studio-ghibli-hayao-miyazaki-sleeping-pxhlv2yy8g4ss0ly.webp"  />
 </div>
 
 
