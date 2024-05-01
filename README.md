@@ -1,4 +1,4 @@
-<h2 align="left">Hey there,👋fellow traveler of the digital realm! I'm alexkozac, a code sorcerer. 🎨 I navigate through the vast skies of programming, delivering solutions with a touch of magic and a sprinkle of creativity.</h2>
+<h2 align="left">Hey there, 👋 fellow traveler of the digital realm! I'm alexkozac, a code sorcerer. 🎨 I navigate through the vast skies of programming, delivering solutions with a touch of magic and a sprinkle of creativity.</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 
 
-<p align="left">You're a fellow code explorer or seeking a companion for this epic adventure? Look no further!🐦<br>I eagerly await our rendezvous amidst the sky.🌌</p>
+<p align="left">You're a fellow code explorer or seeking a companion for this epic adventure? Look no further! 🐦 <br>I eagerly await our rendezvous amidst the sky. 🌌 </p>
 
 
 
