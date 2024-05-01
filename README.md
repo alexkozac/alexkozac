@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  ![Image Name](https://raw.githubusercontent.com/alexkozac/alexkozac/main/img_1.webp))
+  <img height="200" src="https://gifdb.com/images/high/studio-ghibli-the-wind-rises-9et0noh9x3a3q1qf.gif"  />
 </div>
 
 
@@ -63,8 +63,9 @@
 
 
 <div align="center">
- ![Image Name](https://raw.githubusercontent.com/alexkozac/alexkozac/main/img_2.gif))
+  <img height="200" src="https://gifdb.com/images/high/studio-ghibli-hayao-miyazaki-reading-a-book-kmht0rt0ab5dolrr.gif"  />
 </div>
+
 
 
 
