@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://gifdb.com/gif/studio-ghibli-the-wind-rises-9et0noh9x3a3q1qf.html?embed=true"  />
+  <img height="200" src="https://gifdb.com/images/high/studio-ghibli-the-wind-rises-9et0noh9x3a3q1qf.webp"  />
 </div>
 
 
@@ -63,7 +63,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://gifdb.com/gif/studio-ghibli-hayao-miyazaki-reading-a-book-kmht0rt0ab5dolrr.html?embed=true"  />
+  <img height="200" src="https://gifdb.com/images/high/studio-ghibli-hayao-miyazaki-reading-a-book-kmht0rt0ab5dolrr.webp"  />
 </div>
 
 
