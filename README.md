@@ -48,7 +48,7 @@
   <a href="https://twitter.com/ale_xkozac" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="alessandrokozac@gmail.com" target="_blank">
+  <a href="mailto:alessandrokozac@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alessandro-kozac-810991304/" target="_blank">
