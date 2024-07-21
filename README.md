@@ -27,9 +27,7 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://gifdb.com/images/high/studio-ghibli-hayao-miyazaki-sleeping-pxhlv2yy8g4ss0ly.webp"  />
-</div>
+
 
 
 
@@ -62,9 +60,7 @@
 
 
 
-<div align="center">
-  <img height="200" src="https://gifdb.com/images/high/studio-ghibli-hayao-miyazaki-reading-a-book-kmht0rt0ab5dolrr.webp"  />
-</div>
+
 
 
 
